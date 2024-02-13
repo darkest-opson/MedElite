@@ -19,7 +19,7 @@ def main():
     
     # Teacher Photo and Qualification
     with col1:
-        st.image("./pictures/Snapchat-1082235770~2.jpg", caption="Mentor : Prabhat Tripathi", width=250 )
+        st.image("./pictures/profile-pic.png", caption="Mentor : Prabhat Tripathi", width=250 )
         st.write("B.Tech.(Biotech.) | M.Tech(Bioinformatics) and PhD")
         st.write("Research Scholar @Department of Applied sciences, Indian Institute of Information Technology Allahabad, Prayagraj")
 
