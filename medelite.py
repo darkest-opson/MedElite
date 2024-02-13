@@ -21,7 +21,7 @@ def main():
     with col1:
         st.image("./pictures/Snapchat-1082235770~2.jpg", caption="Mentor : Prabhat Tripathi", width=250 )
         st.write("B.Tech.(Biotech.) | M.Tech(Bioinformatics) and PhD")
-        st.write("Research Scholar @Department of Applied sciences, Indian Institute of information Technology Allahabad, Prayagraj")
+        st.write("Research Scholar @Department of Applied sciences, Indian Institute of Information Technology Allahabad, Prayagraj")
 
     
     col1, col2 = st.columns([1,1])
@@ -29,7 +29,7 @@ def main():
         # Get Started
         st.markdown("<h1 style='color: red;'>Get Started</h1>", unsafe_allow_html=True)
         st.markdown("[Click here to Experience a demo class!](https://chat.whatsapp.com/BGHy9jeYpPTJ6dixTmhjYm)")
-        st.markdown("Ready to enroll? [Pay your course fees here](https://forms.gle/RzRzXQEqjEdo715u7)")
+        st.markdown("Ready to enroll? [Pay your course fees: 500₹ per month](https://forms.gle/RzRzXQEqjEdo715u7)")
 
         # Student Reviews
         st.markdown("<h1 style='color: red;'>Student Reviews</h1>", unsafe_allow_html=True)
@@ -44,7 +44,7 @@ def main():
 
 
     # Footer
-    st.markdown("2024 MedElite | Follow us on [YouTube](https://www.youtube.com/channel/UCfZQZj7EkCx6dzsKXGh1IKA)", unsafe_allow_html=True)
+    #st.markdown("2024 MedElite | Follow us on [YouTube](https://www.youtube.com/channel/UCfZQZj7EkCx6dzsKXGh1IKA)", unsafe_allow_html=True)
 
 
 if __name__ == "__main__":
