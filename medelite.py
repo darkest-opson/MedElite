@@ -1,5 +1,11 @@
 import streamlit as st
-
+custom_css = """
+    <style>
+        .stApp .stToolbar .css-vfskoc.e1juee2h1 .css-4xq3i1 {
+            display: none;
+        }
+    </style>
+"""
 def main():
     st.set_page_config(page_title="MedElite Online Coaching", page_icon="📚", layout="wide")
 
